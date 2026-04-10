@@ -1,26 +1,25 @@
 # India-AQI-Visualization
 An interactive web-based data visualization project that analyzes and displays Air Quality Index (AQI) data across different districts of India.
 
-#Features
+# Features
 
-📊 Visualizes AQI components such as CO₂, PM2.5, PM10, and other pollutants
-🗺️ District-wise AQI analysis across India
-🔍 Interactive filtering for customized data exploration
-📈 Dynamic charts using Plotly for better insights
-🌐 Web interface built using Flask for real-time interaction
+1. Visualizes AQI components such as CO₂, PM2.5, PM10, and other pollutants
+2. District-wise AQI analysis across India
+3. Interactive filtering for customized data exploration
+4. Dynamic charts using Plotly for better insights
+5. Web interface built using Flask for real-time interaction
 
- #Tech Stack
+ # Tech Stack
 
-Programming Language: Python
-Framework: Flask
-Libraries: Plotly, Pandas, NumPy
-Frontend: HTML, CSS, JavaScript
+1. Programming Language: Python
+2. Framework: Flask
+3. Libraries: Plotly, Pandas, NumPy
 
-#Use Cases
-Environmental data analysis
-Academic and research purposes
-Awareness of air pollution trends in India
-Data visualization learning project
+# Use Cases
+1. Environmental data analysis
+2. Academic and research purposes
+3. Awareness of air pollution trends in India
+4. Data visualization learning project
 
 ⚙️ Installation & Setup
 # Clone the repository

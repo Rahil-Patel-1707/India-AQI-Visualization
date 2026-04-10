@@ -1,0 +1,45 @@
+{
+  "dominant_colors": [
+    [
+      255,
+      255,
+      255
+    ],
+    [
+      136,
+      189,
+      233
+    ],
+    [
+      144,
+      147,
+      172
+    ],
+    [
+      143,
+      146,
+      171
+    ],
+    [
+      251,
+      242,
+      183
+    ],
+    [
+      217,
+      239,
+      131
+    ],
+    [
+      215,
+      229,
+      178
+    ],
+    [
+      154,
+      157,
+      180
+    ]
+  ],
+  "description": "Color palette extracted from India air quality visualization image"
+}

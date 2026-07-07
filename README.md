@@ -27,6 +27,9 @@ An interactive web-based data visualization project that analyzes and displays A
 # Clone the repository
 git clone https://github.com/yourusername/india-aqi-visualization.git
 
+# google drive link with demo
+https://drive.google.com/drive/folders/1WzkQPxU4-SyLFcTYTkmqh3e0h1pn9sz-?usp=sharing
+
 # Navigate to project directory
 cd india-aqi-visualization
 

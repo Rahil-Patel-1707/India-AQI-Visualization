@@ -41,5 +41,6 @@ Integration with real-time AQI APIs
 Predictive analytics using Machine Learning
 Mobile-friendly UI enhancements
 
-🤝 Contributing
-Contributions are welcome! Feel free to fork the repo and submit pull requests.
+🤝 Contributors
+Rahil Patel
+Shrey Vyas
